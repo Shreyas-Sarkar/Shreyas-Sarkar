@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Shreyas Sarkar
-A student yearning to learn more and gain experience in tech by building.
+Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas-sarkar-9bb2a833a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyassrkr@gmail.com) 
